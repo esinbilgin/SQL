@@ -11,11 +11,11 @@ Key objectives:
 
 This repository includes the following SQL files:
 
-📌 Database Schema (schema.sql) – Defines the database structure and table relationships.
-📌 Sample Data (data.sql) – Contains example datasets to populate the database.
-📌 Enhanced SQL Queries (queries.sql) – Includes queries inspired by FreeCodeCamp and additional custom queries.
+Database Schema (schema.sql) – Defines the database structure and table relationships.
+Sample Data (data.sql) – Contains example datasets to populate the database.
+Enhanced SQL Queries (queries.sql) – Includes queries inspired by FreeCodeCamp and additional custom queries.
 
-🚀 How to Use
+How to Use
 
 1️⃣ Create the database:
 2️⃣ Import the schema:
